@@ -4,4 +4,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://onlypinspr010.chalia4065.workers.dev/sitemap.xml
+Sitemap: https://adpr0010.onlypins.co.kr/sitemap.xml
